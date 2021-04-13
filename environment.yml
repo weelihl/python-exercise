@@ -91,6 +91,7 @@ dependencies:
   - openjpeg=2.4.0=hf7af979_0
   - openssl=1.1.1k=h7f98852_0
   - packaging=20.9=pyh44b312d_0
+  - pandas=1.2.4=py39hde0f152_0
   - pandoc=2.12=h7f98852_0
   - pandocfilters=1.4.2=py_1
   - parso=0.8.2=pyhd8ed1ab_0
@@ -115,6 +116,7 @@ dependencies:
   - python=3.9.2=hffdb5ce_0_cpython
   - python-dateutil=2.8.1=py_0
   - python_abi=3.9=1_cp39
+  - pytz=2021.1=pyhd8ed1ab_0
   - pyzmq=22.0.3=py39h37b5a0c_1
   - qt=5.12.9=hda022c4_4
   - readline=8.0=he28a2e2_2
